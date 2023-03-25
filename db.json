@@ -1,0 +1,64 @@
+{
+  "projects": [
+    {
+      "name": "projeto atualizado",
+      "budget": "13000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 11110,
+      "services": [
+        {
+          "name": "Programador FullStack",
+          "cost": "5000",
+          "description": "Build frontend and backend web applications.",
+          "id": "b63a3b71-c0af-4713-9864-eec4db40c799"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "CRUD Produtos",
+      "budget": "1000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 700,
+      "services": [
+        {
+          "name": "Cadastro de itens ",
+          "cost": "100",
+          "description": "CRUD na tabela itens de produtos",
+          "id": "731507ae-2861-4a89-b19c-597191eead50"
+        },
+        {
+          "name": "teste",
+          "cost": "100",
+          "description": "aaa",
+          "id": "5f3e4717-6cd5-49b1-b653-1346b4f9b019"
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
