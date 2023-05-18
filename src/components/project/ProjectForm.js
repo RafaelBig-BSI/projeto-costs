@@ -11,7 +11,7 @@ function ProjectForm({handleSubmit, btnText, projectData}){
     const [project, setProject] = useState(projectData || {}); //se for uma alteração, o objeto será inicializado com o ProjectData, caso contrario sera inicializado como {}.
     
     useEffect(() => {
-        fetch("http://localhost:5000/projects", { //localhost:8080/categorias/listar
+        fetch("http://localhost:5000/categories", {
             method: "GET",
             headers: {
                 'Content-Type': 'application/json'
