@@ -6,7 +6,7 @@ Gerenciador de projetos feito com React permitindo um CRUD completo como: criar,
 ```bash
 npm install
 ```
-* Para simular uma API REST, foi utilizado a biblioteca <b>json-server</b>. Então, instale e inicie com os comandos:
+* Para simular uma API REST, foi utilizado a biblioteca <b>json-server</b>. Então, inicie o comando:
 ```bash
 npm run backend
 ```
