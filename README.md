@@ -8,9 +8,6 @@ npm install
 ```
 * Para simular uma API REST, foi utilizado a biblioteca <b>json-server</b>. Então, instale e inicie com os comandos:
 ```bash
-npm i json-server
-```
-```bash
 npm run backend
 ```
 
