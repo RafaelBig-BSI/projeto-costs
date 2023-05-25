@@ -21,7 +21,7 @@ npm start
 # <img height="40" src="https://user-images.githubusercontent.com/84249945/219471565-77dd520e-41ee-41f8-8fb9-0e259535a867.png"/> Tecnologias utilizadas
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
   </a>
 </p>
 
